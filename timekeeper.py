@@ -11,3 +11,6 @@ feb14math = feb14track - currentdays
 print("Days until Feb 14: ", feb14math)
 hours = feb14trackss - currentdd
 print("hours until feb14:", hours)
+
+days = feb14math*24
+print("Hours until valentines: ", days + hours, "hours")
